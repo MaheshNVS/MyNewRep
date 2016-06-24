@@ -1,3 +1,1 @@
-This is to test GIT file creation and checkout
-
-Adding more content to check pull from remote to local..added new file content to check remote pull
+This is a new file to check GIT commit and other usage details
