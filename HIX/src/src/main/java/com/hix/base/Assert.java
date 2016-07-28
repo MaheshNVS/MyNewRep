@@ -12,6 +12,8 @@ import org.openqa.selenium.NoAlertPresentException;
  * A set of custom assertion methods useful for writing tests
  */
 
+ //TESTING GIT for updates
+ 
 public class Assert extends org.testng.Assert {
 
 	/**
