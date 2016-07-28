@@ -1,3 +1,6 @@
 new content to check GIT
 
 adding new file to check GIT GUI
+
+
+adding new line to check commit in GIT
