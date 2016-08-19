@@ -1,1 +1,3 @@
 THis is a new file to check how to add new files into GIT
+
+new lined added from remote to be pulled to local
