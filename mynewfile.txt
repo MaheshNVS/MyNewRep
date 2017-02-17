@@ -1,3 +1,6 @@
 This is a new file to check GIT commit and other usage details
 new lines added for checking pull command from GIT to LOCAL
 TEsting purpose
+
+
+adding this file to GIT REMOTE
